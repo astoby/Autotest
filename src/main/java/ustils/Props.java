@@ -30,7 +30,6 @@ public class Props {
         }
     }
 
-    //
     public static String getTestProperty(String key) {
         return PROPERTIES.getProperty(key);
     }
